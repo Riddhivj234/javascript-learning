@@ -35,7 +35,7 @@ console.log("Log the Elemnt 1 to 4 : ",sliceElements);
 
 let seasonalFruitsArray =  ["Papaya","Banana","Orange","Apple","Mango","Water Melon"];
 const sliceElements2 = seasonalFruitsArray.slice(seasonalFruitsArray.length-3)
-console.log("Last 3 elements log on console : ",sliceElements2);
+console.log("Last 3 elements log on console  : ",sliceElements2);
 
 
 
