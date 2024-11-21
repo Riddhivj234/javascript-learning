@@ -18,7 +18,7 @@ console.log("========Finding the negative numbers=============");
 const newArray = [1, -7, 40, 502, -77, 91, 0, 108, 89, -601]
 newArray.forEach( (element) => {
     if (element<1) {
-        console.log(`${element}`);   
+        console.log(element);   
     }
 } );
 
