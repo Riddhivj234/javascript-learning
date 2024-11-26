@@ -30,6 +30,6 @@ console.log(multipleArray);
 console.log("=========All numbers which are between 20 to 50 in the array======================");
 const arrayNew = [20, 11, 40, 25, 37, 49, 9, 90, 60, 2, 19]
 const arrayNum = arrayNew.filter( (element) => {
-    return element>20& element<50;
+    return element>20 & element<50;
 } );
 console.log(arrayNum);

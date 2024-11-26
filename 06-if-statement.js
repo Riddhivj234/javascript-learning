@@ -2,7 +2,7 @@
 console.log("====== Start =========");
 
 
-var bonus = false;
+var bonus = true;
 
 if (bonus) {
 
